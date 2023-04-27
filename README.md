@@ -1,0 +1,3 @@
+- I'm Lucas Batista. 20 years old. Brazilian
+- I.T. Technician and programmer. Participated in projects in C++, Java and Python.
+- You can find me in academylucasbatista@gmail.com.
